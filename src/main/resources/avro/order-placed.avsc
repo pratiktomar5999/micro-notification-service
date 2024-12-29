@@ -1,0 +1,15 @@
+{
+    "type": "class",
+    "name": "OrderEvent",
+    "namespace": "com.techie.micro.order.event",
+    "fields" : [
+        {
+            "name": "orderNumber",
+            "type": "string"
+        }
+        {
+            "name": "email",
+            "type": "string"
+        }
+    ]
+}
